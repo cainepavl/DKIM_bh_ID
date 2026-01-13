@@ -4,7 +4,7 @@ import re
 
 def verify_dkim_body():
     file_path = "raw_body.bin"
-    expected_bh = "2Xz66rWfrVgWAeWuVgoYF3IZCwn50UywwNAlxj/m+Gc="
+    expected_bh = "Enter your bh"
 
     try:
         with open(file_path, "rb") as f:
