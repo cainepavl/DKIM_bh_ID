@@ -4,11 +4,11 @@ A technical implementation for manually verifying the **Body Hash (bh)** of an e
 
 ## Table of Contents
 
--[Project Structure](#project-structure)
--[Prerequisites](#prerequisites)
--[Workflow & Implementation](#workflow&implementation)
--[How to adapt for new emails](#how-to-adapt-for-new-emails)
--[License](#license)
+- [Project Structure](#project-structure)
+- [Prerequisites](#prerequisites)
+- [Workflow & Implementation](#workflow&implementation)
+- [How to adapt for new emails](#how-to-adapt-for-new-emails)
+- [License](#license)
 
 ## Project Structure
 * `Test Email.eml`: The raw email source file including headers and multipart body.
