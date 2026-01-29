@@ -6,7 +6,7 @@ A technical implementation for manually verifying the **Body Hash (bh)** of an e
 
 - [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
-- [Workflow & Implementation](#workflow&implementation)
+- [Workflow & Implementation](#workflow--implementation)
 - [How to adapt for new emails](#how-to-adapt-for-new-emails)
 - [License](#license)
 
