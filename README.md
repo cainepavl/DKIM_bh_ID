@@ -2,6 +2,11 @@
 
 A technical implementation for manually verifying the **Body Hash (bh)** of an email using the **DKIM (DomainKeys Identified Mail)** standard (RFC 6376). This project demonstrates the process of isolating an email body and applying the "Relaxed" canonicalization algorithm to match cryptographic signatures.
 
+## Table of Contents
+
+-[Project Structure] (#project-structure)
+-[Prerequisites] (#prerequisites)
+
 ## Project Structure
 * `Test Email.eml`: The raw email source file including headers and multipart body.
 * `raw_body.bin`: The isolated message body (extracted using `tail`).
